@@ -21,7 +21,7 @@ import store from "@/redux/store"
 import 'normalize.css/normalize.css'
 import '@/style/style.scss'
 
-import App from '@/containers/App.js'
+import App from '@/containers/App.js' 
 
 const Loading = function () {
     return <div>Loading...</div>

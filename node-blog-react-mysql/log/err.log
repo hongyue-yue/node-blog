@@ -1,0 +1,930 @@
+[Sun Mar 18 2018 20:19:57 GMT+0800 (CST)]/api/post
+TypeError: Cannot read property 'secret' of undefined
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/app.js:28:25
+    at Layer.handle [as handle_request] (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/layer.js:95:5)
+    at trim_prefix (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:317:13)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:284:7
+    at Function.process_params (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:335:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:275:10)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_serve-static@1.13.2@serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+    at SendStream.emit (events.js:188:7)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:270:17)
+    at SendStream.onStatError (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:421:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:736:16)
+    at onstat (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:725:14)
+    at FSReqWrap.oncomplete (fs.js:123:15)
+[Sun Mar 18 2018 20:20:08 GMT+0800 (CST)]/api/post
+TypeError: Cannot read property 'secret' of undefined
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/app.js:28:25
+    at Layer.handle [as handle_request] (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/layer.js:95:5)
+    at trim_prefix (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:317:13)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:284:7
+    at Function.process_params (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:335:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:275:10)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_serve-static@1.13.2@serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+    at SendStream.emit (events.js:188:7)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:270:17)
+    at SendStream.onStatError (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:421:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:736:16)
+    at onstat (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:725:14)
+    at FSReqWrap.oncomplete (fs.js:123:15)
+[Sun Mar 18 2018 20:21:51 GMT+0800 (CST)]/api/login
+TypeError: Cannot read property 'secret' of undefined
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/app.js:28:25
+    at Layer.handle [as handle_request] (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/layer.js:95:5)
+    at trim_prefix (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:317:13)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:284:7
+    at Function.process_params (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:335:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:275:10)
+    at serveStatic (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_serve-static@1.13.2@serve-static/index.js:75:16)
+    at Layer.handle [as handle_request] (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/layer.js:95:5)
+    at trim_prefix (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:317:13)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:284:7
+    at Function.process_params (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:335:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:275:10)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_connect-history-api-fallback@1.5.0@connect-history-api-fallback/lib/index.js:18:14
+    at Layer.handle [as handle_request] (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/layer.js:95:5)
+    at trim_prefix (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:317:13)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:284:7
+    at Function.process_params (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:335:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:275:10)
+    at cookieParser (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_cookie-parser@1.4.3@cookie-parser/index.js:56:14)
+    at Layer.handle [as handle_request] (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/layer.js:95:5)
+    at trim_prefix (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:317:13)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:284:7
+[Sun Mar 18 2018 20:24:02 GMT+0800 (CST)]/api/post
+TypeError: Cannot read property 'secret' of undefined
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/app.js:29:25
+    at Layer.handle [as handle_request] (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/layer.js:95:5)
+    at trim_prefix (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:317:13)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:284:7
+    at Function.process_params (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:335:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:275:10)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_serve-static@1.13.2@serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+    at SendStream.emit (events.js:188:7)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:270:17)
+    at SendStream.onStatError (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:421:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:736:16)
+    at onstat (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:725:14)
+    at FSReqWrap.oncomplete (fs.js:123:15)
+[Sun Mar 18 2018 20:24:04 GMT+0800 (CST)]/api/post
+TypeError: Cannot read property 'secret' of undefined
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/app.js:29:25
+    at Layer.handle [as handle_request] (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/layer.js:95:5)
+    at trim_prefix (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:317:13)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:284:7
+    at Function.process_params (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:335:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:275:10)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_serve-static@1.13.2@serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+    at SendStream.emit (events.js:188:7)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:270:17)
+    at SendStream.onStatError (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:421:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:736:16)
+    at onstat (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:725:14)
+    at FSReqWrap.oncomplete (fs.js:123:15)
+[Sun Mar 18 2018 20:24:25 GMT+0800 (CST)]/api/post
+TypeError: Cannot read property 'secret' of undefined
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/app.js:29:25
+    at Layer.handle [as handle_request] (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/layer.js:95:5)
+    at trim_prefix (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:317:13)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:284:7
+    at Function.process_params (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:335:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:275:10)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_serve-static@1.13.2@serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+    at SendStream.emit (events.js:188:7)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:270:17)
+    at SendStream.onStatError (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:421:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:736:16)
+    at onstat (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:725:14)
+    at FSReqWrap.oncomplete (fs.js:123:15)
+[Sun Mar 18 2018 20:25:04 GMT+0800 (CST)]/api/post
+TypeError: Cannot read property 'secret' of undefined
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/app.js:29:25
+    at Layer.handle [as handle_request] (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/layer.js:95:5)
+    at trim_prefix (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:317:13)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:284:7
+    at Function.process_params (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:335:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:275:10)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_serve-static@1.13.2@serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+    at SendStream.emit (events.js:188:7)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:270:17)
+    at SendStream.onStatError (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:421:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:736:16)
+    at onstat (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:725:14)
+    at FSReqWrap.oncomplete (fs.js:123:15)
+[Sun Mar 18 2018 20:25:11 GMT+0800 (CST)]/api/post
+TypeError: Cannot read property 'secret' of undefined
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/app.js:28:25
+    at Layer.handle [as handle_request] (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/layer.js:95:5)
+    at trim_prefix (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:317:13)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:284:7
+    at Function.process_params (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:335:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:275:10)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_serve-static@1.13.2@serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+    at SendStream.emit (events.js:188:7)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:270:17)
+    at SendStream.onStatError (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:421:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:736:16)
+    at onstat (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:725:14)
+    at FSReqWrap.oncomplete (fs.js:123:15)
+[Sun Mar 18 2018 20:27:11 GMT+0800 (CST)]/api/post
+TypeError: Cannot read property 'secret' of undefined
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/app.js:28:25
+    at Layer.handle [as handle_request] (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/layer.js:95:5)
+    at trim_prefix (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:317:13)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:284:7
+    at Function.process_params (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:335:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:275:10)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_serve-static@1.13.2@serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+    at SendStream.emit (events.js:188:7)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:270:17)
+    at SendStream.onStatError (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:421:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:736:16)
+    at onstat (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:725:14)
+    at FSReqWrap.oncomplete (fs.js:123:15)
+[Mon Mar 19 2018 14:19:18 GMT+0800 (CST)]/user/post
+ReferenceError: md5 is not defined
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/app.js:37:34
+    at Layer.handle [as handle_request] (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/layer.js:95:5)
+    at trim_prefix (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:317:13)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:284:7
+    at Function.process_params (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:335:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:275:10)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_serve-static@1.13.2@serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+    at SendStream.emit (events.js:188:7)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:270:17)
+    at SendStream.onStatError (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:421:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:736:16)
+    at onstat (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:725:14)
+    at FSReqWrap.oncomplete (fs.js:123:15)
+[Mon Mar 19 2018 14:22:37 GMT+0800 (CST)]/user/post
+ReferenceError: md5 is not defined
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/app.js:37:34
+    at Layer.handle [as handle_request] (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/layer.js:95:5)
+    at trim_prefix (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:317:13)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:284:7
+    at Function.process_params (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:335:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:275:10)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_serve-static@1.13.2@serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+    at SendStream.emit (events.js:188:7)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:270:17)
+    at SendStream.onStatError (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:421:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:736:16)
+    at onstat (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:725:14)
+    at FSReqWrap.oncomplete (fs.js:123:15)
+[Mon Mar 19 2018 14:24:32 GMT+0800 (CST)]/user/post
+ReferenceError: md5 is not defined
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/app.js:37:34
+    at Layer.handle [as handle_request] (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/layer.js:95:5)
+    at trim_prefix (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:317:13)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:284:7
+    at Function.process_params (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:335:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:275:10)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_serve-static@1.13.2@serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+    at SendStream.emit (events.js:188:7)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:270:17)
+    at SendStream.onStatError (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:421:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:736:16)
+    at onstat (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:725:14)
+    at FSReqWrap.oncomplete (fs.js:123:15)
+[Mon Mar 19 2018 14:53:59 GMT+0800 (CST)]/user/info
+Error: Digest already called
+    at Error (native)
+    at Hash.update (crypto.js:74:16)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/app.js:40:22
+    at Layer.handle [as handle_request] (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/layer.js:95:5)
+    at trim_prefix (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:317:13)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:284:7
+    at Function.process_params (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:335:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:275:10)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_serve-static@1.13.2@serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+    at SendStream.emit (events.js:188:7)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:270:17)
+    at SendStream.onStatError (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:421:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:736:16)
+    at onstat (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:725:14)
+    at FSReqWrap.oncomplete (fs.js:123:15)
+[Mon Mar 19 2018 15:12:25 GMT+0800 (CST)]/user/post?name=qinyueshang
+Error: Digest already called
+    at Error (native)
+    at Hash.update (crypto.js:74:16)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/app.js:38:22
+    at Layer.handle [as handle_request] (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/layer.js:95:5)
+    at trim_prefix (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:317:13)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:284:7
+    at Function.process_params (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:335:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:275:10)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_serve-static@1.13.2@serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+    at SendStream.emit (events.js:188:7)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:270:17)
+    at SendStream.onStatError (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:421:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:736:16)
+    at onstat (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:725:14)
+    at FSReqWrap.oncomplete (fs.js:123:15)
+[Mon Mar 19 2018 15:14:14 GMT+0800 (CST)]/user/info
+TypeError: Cannot read property 'expires' of undefined
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/app.js:39:34
+    at Layer.handle [as handle_request] (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/layer.js:95:5)
+    at trim_prefix (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:317:13)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:284:7
+    at Function.process_params (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:335:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:275:10)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_serve-static@1.13.2@serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+    at SendStream.emit (events.js:188:7)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:270:17)
+    at SendStream.onStatError (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:421:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:736:16)
+    at onstat (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:725:14)
+    at FSReqWrap.oncomplete (fs.js:123:15)
+[Mon Mar 19 2018 15:14:30 GMT+0800 (CST)]/user/info
+Error: Digest already called
+    at Error (native)
+    at Hash.update (crypto.js:74:16)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/app.js:38:22
+    at Layer.handle [as handle_request] (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/layer.js:95:5)
+    at trim_prefix (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:317:13)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:284:7
+    at Function.process_params (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:335:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:275:10)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_serve-static@1.13.2@serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+    at SendStream.emit (events.js:188:7)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:270:17)
+    at SendStream.onStatError (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:421:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:736:16)
+    at onstat (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:725:14)
+    at FSReqWrap.oncomplete (fs.js:123:15)
+[Mon Mar 19 2018 15:16:30 GMT+0800 (CST)]/user/info
+Error: Digest already called
+    at Error (native)
+    at Hash.update (crypto.js:74:16)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/app.js:38:22
+    at Layer.handle [as handle_request] (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/layer.js:95:5)
+    at trim_prefix (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:317:13)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:284:7
+    at Function.process_params (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:335:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:275:10)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_serve-static@1.13.2@serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+    at SendStream.emit (events.js:188:7)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:270:17)
+    at SendStream.onStatError (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:421:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:736:16)
+    at onstat (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:725:14)
+    at FSReqWrap.oncomplete (fs.js:123:15)
+[Mon Mar 19 2018 15:25:31 GMT+0800 (CST)]/user/info
+Error: Digest already called
+    at Error (native)
+    at Hash.update (crypto.js:74:16)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/app.js:38:22
+    at Layer.handle [as handle_request] (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/layer.js:95:5)
+    at trim_prefix (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:317:13)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:284:7
+    at Function.process_params (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:335:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:275:10)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_serve-static@1.13.2@serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+    at SendStream.emit (events.js:188:7)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:270:17)
+    at SendStream.onStatError (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:421:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:736:16)
+    at onstat (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:725:14)
+    at FSReqWrap.oncomplete (fs.js:123:15)
+[Mon Mar 19 2018 15:25:33 GMT+0800 (CST)]/user/info
+Error: Digest already called
+    at Error (native)
+    at Hash.update (crypto.js:74:16)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/app.js:38:22
+    at Layer.handle [as handle_request] (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/layer.js:95:5)
+    at trim_prefix (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:317:13)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:284:7
+    at Function.process_params (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:335:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:275:10)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_serve-static@1.13.2@serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+    at SendStream.emit (events.js:188:7)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:270:17)
+    at SendStream.onStatError (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:421:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:736:16)
+    at onstat (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:725:14)
+    at FSReqWrap.oncomplete (fs.js:123:15)
+[Mon Mar 19 2018 15:25:41 GMT+0800 (CST)]/user/post?name=qinyueshang
+Error: Digest already called
+    at Error (native)
+    at Hash.update (crypto.js:74:16)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/app.js:38:22
+    at Layer.handle [as handle_request] (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/layer.js:95:5)
+    at trim_prefix (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:317:13)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:284:7
+    at Function.process_params (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:335:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:275:10)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_serve-static@1.13.2@serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+    at SendStream.emit (events.js:188:7)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:270:17)
+    at SendStream.onStatError (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:421:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:736:16)
+    at onstat (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:725:14)
+    at FSReqWrap.oncomplete (fs.js:123:15)
+[Mon Mar 19 2018 15:26:48 GMT+0800 (CST)]/user/info
+Error: Digest already called
+    at Error (native)
+    at Hash.update (crypto.js:74:16)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/app.js:38:22
+    at Layer.handle [as handle_request] (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/layer.js:95:5)
+    at trim_prefix (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:317:13)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:284:7
+    at Function.process_params (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:335:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:275:10)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_serve-static@1.13.2@serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+    at SendStream.emit (events.js:188:7)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:270:17)
+    at SendStream.onStatError (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:421:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:736:16)
+    at onstat (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:725:14)
+    at FSReqWrap.oncomplete (fs.js:123:15)
+[Mon Mar 19 2018 15:26:51 GMT+0800 (CST)]/user/info
+Error: Digest already called
+    at Error (native)
+    at Hash.update (crypto.js:74:16)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/app.js:38:22
+    at Layer.handle [as handle_request] (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/layer.js:95:5)
+    at trim_prefix (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:317:13)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:284:7
+    at Function.process_params (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:335:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:275:10)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_serve-static@1.13.2@serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+    at SendStream.emit (events.js:188:7)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:270:17)
+    at SendStream.onStatError (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:421:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:736:16)
+    at onstat (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:725:14)
+    at FSReqWrap.oncomplete (fs.js:123:15)
+[Mon Mar 19 2018 15:26:57 GMT+0800 (CST)]/user/info
+Error: Digest already called
+    at Error (native)
+    at Hash.update (crypto.js:74:16)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/app.js:38:22
+    at Layer.handle [as handle_request] (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/layer.js:95:5)
+    at trim_prefix (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:317:13)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:284:7
+    at Function.process_params (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:335:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:275:10)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_serve-static@1.13.2@serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+    at SendStream.emit (events.js:188:7)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:270:17)
+    at SendStream.onStatError (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:421:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:736:16)
+    at onstat (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:725:14)
+    at FSReqWrap.oncomplete (fs.js:123:15)
+[Mon Mar 19 2018 15:27:41 GMT+0800 (CST)]/user/post?name=qinyueshang
+Error: Digest already called
+    at Error (native)
+    at Hash.update (crypto.js:74:16)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/app.js:38:22
+    at Layer.handle [as handle_request] (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/layer.js:95:5)
+    at trim_prefix (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:317:13)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:284:7
+    at Function.process_params (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:335:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:275:10)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_serve-static@1.13.2@serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+    at SendStream.emit (events.js:188:7)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:270:17)
+    at SendStream.onStatError (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:421:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:736:16)
+    at onstat (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:725:14)
+    at FSReqWrap.oncomplete (fs.js:123:15)
+[Mon Mar 19 2018 15:29:43 GMT+0800 (CST)]/user/post?name=qinyueshang
+Error: Digest already called
+    at Error (native)
+    at Hash.update (crypto.js:74:16)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/app.js:38:22
+    at Layer.handle [as handle_request] (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/layer.js:95:5)
+    at trim_prefix (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:317:13)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:284:7
+    at Function.process_params (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:335:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:275:10)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_serve-static@1.13.2@serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+    at SendStream.emit (events.js:188:7)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:270:17)
+    at SendStream.onStatError (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:421:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:736:16)
+    at onstat (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:725:14)
+    at FSReqWrap.oncomplete (fs.js:123:15)
+[Mon Mar 19 2018 15:31:43 GMT+0800 (CST)]/user/post?name=qinyueshang
+Error: Digest already called
+    at Error (native)
+    at Hash.update (crypto.js:74:16)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/app.js:38:22
+    at Layer.handle [as handle_request] (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/layer.js:95:5)
+    at trim_prefix (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:317:13)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:284:7
+    at Function.process_params (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:335:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:275:10)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_serve-static@1.13.2@serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+    at SendStream.emit (events.js:188:7)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:270:17)
+    at SendStream.onStatError (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:421:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:736:16)
+    at onstat (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:725:14)
+    at FSReqWrap.oncomplete (fs.js:123:15)
+[Mon Mar 19 2018 15:32:52 GMT+0800 (CST)]/user/info
+Error: Digest already called
+    at Error (native)
+    at Hash.update (crypto.js:74:16)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/app.js:38:22
+    at Layer.handle [as handle_request] (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/layer.js:95:5)
+    at trim_prefix (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:317:13)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:284:7
+    at Function.process_params (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:335:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:275:10)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_serve-static@1.13.2@serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+    at SendStream.emit (events.js:188:7)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:270:17)
+    at SendStream.onStatError (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:421:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:736:16)
+    at onstat (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:725:14)
+    at FSReqWrap.oncomplete (fs.js:123:15)
+[Mon Mar 19 2018 15:33:13 GMT+0800 (CST)]/user/post?name=qinyueshang
+Error: Digest already called
+    at Error (native)
+    at Hash.update (crypto.js:74:16)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/app.js:38:22
+    at Layer.handle [as handle_request] (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/layer.js:95:5)
+    at trim_prefix (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:317:13)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:284:7
+    at Function.process_params (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:335:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:275:10)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_serve-static@1.13.2@serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+    at SendStream.emit (events.js:188:7)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:270:17)
+    at SendStream.onStatError (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:421:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:736:16)
+    at onstat (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:725:14)
+    at FSReqWrap.oncomplete (fs.js:123:15)
+[Mon Mar 19 2018 15:34:12 GMT+0800 (CST)]/user/info
+Error: Digest already called
+    at Error (native)
+    at Hash.update (crypto.js:74:16)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/app.js:38:22
+    at Layer.handle [as handle_request] (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/layer.js:95:5)
+    at trim_prefix (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:317:13)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:284:7
+    at Function.process_params (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:335:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:275:10)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_serve-static@1.13.2@serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+    at SendStream.emit (events.js:188:7)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:270:17)
+    at SendStream.onStatError (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:421:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:736:16)
+    at onstat (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:725:14)
+    at FSReqWrap.oncomplete (fs.js:123:15)
+[Mon Mar 19 2018 15:34:17 GMT+0800 (CST)]/user/info
+Error: Digest already called
+    at Error (native)
+    at Hash.update (crypto.js:74:16)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/app.js:38:22
+    at Layer.handle [as handle_request] (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/layer.js:95:5)
+    at trim_prefix (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:317:13)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:284:7
+    at Function.process_params (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:335:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:275:10)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_serve-static@1.13.2@serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+    at SendStream.emit (events.js:188:7)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:270:17)
+    at SendStream.onStatError (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:421:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:736:16)
+    at onstat (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:725:14)
+    at FSReqWrap.oncomplete (fs.js:123:15)
+[Mon Mar 19 2018 15:35:29 GMT+0800 (CST)]/user/post?name=qinyueshang
+Error: Digest already called
+    at Error (native)
+    at Hash.update (crypto.js:74:16)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/app.js:48:22
+    at Layer.handle [as handle_request] (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/layer.js:95:5)
+    at trim_prefix (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:317:13)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:284:7
+    at Function.process_params (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:335:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:275:10)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/app.js:38:5
+    at Layer.handle [as handle_request] (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/layer.js:95:5)
+    at trim_prefix (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:317:13)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:284:7
+    at Function.process_params (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:335:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:275:10)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_serve-static@1.13.2@serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+    at SendStream.emit (events.js:188:7)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:270:17)
+    at SendStream.onStatError (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:421:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:736:16)
+    at onstat (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:725:14)
+    at FSReqWrap.oncomplete (fs.js:123:15)
+[Mon Mar 19 2018 15:36:34 GMT+0800 (CST)]/user/post?name=qinyueshang
+Error: Digest already called
+    at Error (native)
+    at Hash.update (crypto.js:74:16)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/app.js:48:22
+    at Layer.handle [as handle_request] (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/layer.js:95:5)
+    at trim_prefix (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:317:13)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:284:7
+    at Function.process_params (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:335:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:275:10)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/app.js:38:5
+    at Layer.handle [as handle_request] (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/layer.js:95:5)
+    at trim_prefix (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:317:13)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:284:7
+    at Function.process_params (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:335:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:275:10)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_serve-static@1.13.2@serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+    at SendStream.emit (events.js:188:7)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:270:17)
+    at SendStream.onStatError (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:421:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:736:16)
+    at onstat (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:725:14)
+    at FSReqWrap.oncomplete (fs.js:123:15)
+[Mon Mar 19 2018 15:37:33 GMT+0800 (CST)]/user/info
+Error: Digest already called
+    at Error (native)
+    at Hash.update (crypto.js:74:16)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/app.js:48:22
+    at Layer.handle [as handle_request] (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/layer.js:95:5)
+    at trim_prefix (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:317:13)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:284:7
+    at Function.process_params (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:335:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:275:10)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/app.js:38:5
+    at Layer.handle [as handle_request] (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/layer.js:95:5)
+    at trim_prefix (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:317:13)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:284:7
+    at Function.process_params (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:335:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:275:10)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_serve-static@1.13.2@serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+    at SendStream.emit (events.js:188:7)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:270:17)
+    at SendStream.onStatError (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:421:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:736:16)
+    at onstat (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:725:14)
+    at FSReqWrap.oncomplete (fs.js:123:15)
+[Mon Mar 19 2018 15:37:48 GMT+0800 (CST)]/user/post?name=qinyueshang
+Error: Digest already called
+    at Error (native)
+    at Hash.update (crypto.js:74:16)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/app.js:48:22
+    at Layer.handle [as handle_request] (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/layer.js:95:5)
+    at trim_prefix (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:317:13)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:284:7
+    at Function.process_params (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:335:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:275:10)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/app.js:38:5
+    at Layer.handle [as handle_request] (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/layer.js:95:5)
+    at trim_prefix (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:317:13)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:284:7
+    at Function.process_params (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:335:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:275:10)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_serve-static@1.13.2@serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+    at SendStream.emit (events.js:188:7)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:270:17)
+    at SendStream.onStatError (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:421:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:736:16)
+    at onstat (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:725:14)
+    at FSReqWrap.oncomplete (fs.js:123:15)
+[Mon Mar 19 2018 15:37:53 GMT+0800 (CST)]/user/info
+Error: Digest already called
+    at Error (native)
+    at Hash.update (crypto.js:74:16)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/app.js:48:22
+    at Layer.handle [as handle_request] (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/layer.js:95:5)
+    at trim_prefix (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:317:13)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:284:7
+    at Function.process_params (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:335:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:275:10)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/app.js:38:5
+    at Layer.handle [as handle_request] (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/layer.js:95:5)
+    at trim_prefix (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:317:13)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:284:7
+    at Function.process_params (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:335:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:275:10)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_serve-static@1.13.2@serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+    at SendStream.emit (events.js:188:7)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:270:17)
+    at SendStream.onStatError (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:421:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:736:16)
+    at onstat (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:725:14)
+    at FSReqWrap.oncomplete (fs.js:123:15)
+[Mon Mar 19 2018 15:38:49 GMT+0800 (CST)]/user/post?name=qinyueshang
+Error: Digest already called
+    at Error (native)
+    at Hash.update (crypto.js:74:16)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/app.js:49:22
+    at Layer.handle [as handle_request] (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/layer.js:95:5)
+    at trim_prefix (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:317:13)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:284:7
+    at Function.process_params (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:335:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:275:10)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/app.js:38:5
+    at Layer.handle [as handle_request] (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/layer.js:95:5)
+    at trim_prefix (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:317:13)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:284:7
+    at Function.process_params (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:335:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:275:10)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_serve-static@1.13.2@serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+    at SendStream.emit (events.js:188:7)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:270:17)
+    at SendStream.onStatError (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:421:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:736:16)
+    at onstat (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:725:14)
+    at FSReqWrap.oncomplete (fs.js:123:15)
+[Mon Mar 19 2018 15:39:54 GMT+0800 (CST)]/user/post?name=qinyueshang
+Error: Digest already called
+    at Error (native)
+    at Hash.update (crypto.js:74:16)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/app.js:49:22
+    at Layer.handle [as handle_request] (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/layer.js:95:5)
+    at trim_prefix (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:317:13)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:284:7
+    at Function.process_params (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:335:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:275:10)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/app.js:38:5
+    at Layer.handle [as handle_request] (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/layer.js:95:5)
+    at trim_prefix (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:317:13)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:284:7
+    at Function.process_params (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:335:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:275:10)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_serve-static@1.13.2@serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+    at SendStream.emit (events.js:188:7)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:270:17)
+    at SendStream.onStatError (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:421:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:736:16)
+    at onstat (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:725:14)
+    at FSReqWrap.oncomplete (fs.js:123:15)
+[Mon Mar 19 2018 15:40:56 GMT+0800 (CST)]/user/post?name=qinyueshang
+Error: Digest already called
+    at Error (native)
+    at Hash.update (crypto.js:74:16)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/app.js:50:22
+    at Layer.handle [as handle_request] (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/layer.js:95:5)
+    at trim_prefix (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:317:13)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:284:7
+    at Function.process_params (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:335:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:275:10)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/app.js:38:5
+    at Layer.handle [as handle_request] (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/layer.js:95:5)
+    at trim_prefix (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:317:13)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:284:7
+    at Function.process_params (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:335:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:275:10)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_serve-static@1.13.2@serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+    at SendStream.emit (events.js:188:7)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:270:17)
+    at SendStream.onStatError (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:421:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:736:16)
+    at onstat (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:725:14)
+    at FSReqWrap.oncomplete (fs.js:123:15)
+[Mon Mar 19 2018 15:42:07 GMT+0800 (CST)]/user/post?name=qinyueshang
+Error: Digest already called
+    at Error (native)
+    at Hash.update (crypto.js:74:16)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/app.js:48:22
+    at Layer.handle [as handle_request] (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/layer.js:95:5)
+    at trim_prefix (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:317:13)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:284:7
+    at Function.process_params (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:335:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:275:10)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/app.js:35:5
+    at Layer.handle [as handle_request] (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/layer.js:95:5)
+    at trim_prefix (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:317:13)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:284:7
+    at Function.process_params (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:335:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:275:10)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_serve-static@1.13.2@serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+    at SendStream.emit (events.js:188:7)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:270:17)
+    at SendStream.onStatError (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:421:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:736:16)
+    at onstat (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:725:14)
+    at FSReqWrap.oncomplete (fs.js:123:15)
+[Mon Mar 19 2018 15:43:12 GMT+0800 (CST)]/user/post?name=qinyueshang
+Error: Digest already called
+    at Error (native)
+    at Hash.update (crypto.js:74:16)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/app.js:47:22
+    at Layer.handle [as handle_request] (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/layer.js:95:5)
+    at trim_prefix (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:317:13)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:284:7
+    at Function.process_params (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:335:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:275:10)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/app.js:34:5
+    at Layer.handle [as handle_request] (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/layer.js:95:5)
+    at trim_prefix (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:317:13)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:284:7
+    at Function.process_params (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:335:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:275:10)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_serve-static@1.13.2@serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+    at SendStream.emit (events.js:188:7)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:270:17)
+    at SendStream.onStatError (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:421:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:736:16)
+    at onstat (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:725:14)
+    at FSReqWrap.oncomplete (fs.js:123:15)
+[Mon Mar 19 2018 15:45:05 GMT+0800 (CST)]/user/post?name=qinyueshang
+Error: Digest already called
+    at Error (native)
+    at Hash.update (crypto.js:74:16)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/app.js:47:22
+    at Layer.handle [as handle_request] (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/layer.js:95:5)
+    at trim_prefix (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:317:13)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:284:7
+    at Function.process_params (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:335:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:275:10)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/app.js:34:5
+    at Layer.handle [as handle_request] (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/layer.js:95:5)
+    at trim_prefix (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:317:13)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:284:7
+    at Function.process_params (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:335:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:275:10)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_serve-static@1.13.2@serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+    at SendStream.emit (events.js:188:7)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:270:17)
+    at SendStream.onStatError (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:421:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:736:16)
+    at onstat (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:725:14)
+    at FSReqWrap.oncomplete (fs.js:123:15)
+[Mon Mar 19 2018 15:45:27 GMT+0800 (CST)]/user/info
+Error: Digest already called
+    at Error (native)
+    at Hash.update (crypto.js:74:16)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/app.js:47:22
+    at Layer.handle [as handle_request] (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/layer.js:95:5)
+    at trim_prefix (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:317:13)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:284:7
+    at Function.process_params (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:335:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:275:10)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/app.js:34:5
+    at Layer.handle [as handle_request] (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/layer.js:95:5)
+    at trim_prefix (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:317:13)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:284:7
+    at Function.process_params (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:335:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:275:10)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_serve-static@1.13.2@serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+    at SendStream.emit (events.js:188:7)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:270:17)
+    at SendStream.onStatError (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:421:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:736:16)
+    at onstat (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:725:14)
+    at FSReqWrap.oncomplete (fs.js:123:15)
+[Mon Mar 19 2018 15:46:07 GMT+0800 (CST)]/user/post?name=qinyueshang
+Error: Digest already called
+    at Error (native)
+    at Hash.update (crypto.js:74:16)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/app.js:47:22
+    at Layer.handle [as handle_request] (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/layer.js:95:5)
+    at trim_prefix (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:317:13)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:284:7
+    at Function.process_params (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:335:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:275:10)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/app.js:34:5
+    at Layer.handle [as handle_request] (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/layer.js:95:5)
+    at trim_prefix (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:317:13)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:284:7
+    at Function.process_params (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:335:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:275:10)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_serve-static@1.13.2@serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+    at SendStream.emit (events.js:188:7)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:270:17)
+    at SendStream.onStatError (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:421:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:736:16)
+    at onstat (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:725:14)
+    at FSReqWrap.oncomplete (fs.js:123:15)
+[Mon Mar 19 2018 15:48:07 GMT+0800 (CST)]/user/post?name=qinyueshang
+Error: Digest already called
+    at Error (native)
+    at Hash.update (crypto.js:74:16)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/app.js:47:22
+    at Layer.handle [as handle_request] (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/layer.js:95:5)
+    at trim_prefix (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:317:13)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:284:7
+    at Function.process_params (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:335:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:275:10)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/app.js:34:5
+    at Layer.handle [as handle_request] (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/layer.js:95:5)
+    at trim_prefix (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:317:13)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:284:7
+    at Function.process_params (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:335:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:275:10)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_serve-static@1.13.2@serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+    at SendStream.emit (events.js:188:7)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:270:17)
+    at SendStream.onStatError (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:421:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:736:16)
+    at onstat (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:725:14)
+    at FSReqWrap.oncomplete (fs.js:123:15)
+[Mon Mar 19 2018 15:51:03 GMT+0800 (CST)]/user/info
+Error: Digest already called
+    at Error (native)
+    at Hash.update (crypto.js:74:16)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/app.js:47:22
+    at Layer.handle [as handle_request] (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/layer.js:95:5)
+    at trim_prefix (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:317:13)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:284:7
+    at Function.process_params (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:335:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:275:10)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/app.js:34:5
+    at Layer.handle [as handle_request] (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/layer.js:95:5)
+    at trim_prefix (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:317:13)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:284:7
+    at Function.process_params (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:335:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:275:10)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_serve-static@1.13.2@serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+    at SendStream.emit (events.js:188:7)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:270:17)
+    at SendStream.onStatError (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:421:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:736:16)
+    at onstat (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:725:14)
+    at FSReqWrap.oncomplete (fs.js:123:15)
+[Mon Mar 19 2018 15:52:39 GMT+0800 (CST)]/user/post?name=qinyueshang
+Error: Digest already called
+    at Error (native)
+    at Hash.update (crypto.js:74:16)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/app.js:47:22
+    at Layer.handle [as handle_request] (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/layer.js:95:5)
+    at trim_prefix (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:317:13)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:284:7
+    at Function.process_params (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:335:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:275:10)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/app.js:34:5
+    at Layer.handle [as handle_request] (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/layer.js:95:5)
+    at trim_prefix (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:317:13)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:284:7
+    at Function.process_params (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:335:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:275:10)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_serve-static@1.13.2@serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+    at SendStream.emit (events.js:188:7)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:270:17)
+    at SendStream.onStatError (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:421:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:736:16)
+    at onstat (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:725:14)
+    at FSReqWrap.oncomplete (fs.js:123:15)
+[Mon Mar 19 2018 15:54:39 GMT+0800 (CST)]/user/post?name=qinyueshang
+Error: Digest already called
+    at Error (native)
+    at Hash.update (crypto.js:74:16)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/app.js:47:22
+    at Layer.handle [as handle_request] (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/layer.js:95:5)
+    at trim_prefix (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:317:13)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:284:7
+    at Function.process_params (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:335:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:275:10)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/app.js:34:5
+    at Layer.handle [as handle_request] (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/layer.js:95:5)
+    at trim_prefix (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:317:13)
+    at /media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:284:7
+    at Function.process_params (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:335:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_express@4.16.3@express/lib/router/index.js:275:10)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_serve-static@1.13.2@serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+    at SendStream.emit (events.js:188:7)
+    at SendStream.error (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:270:17)
+    at SendStream.onStatError (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:421:12)
+    at next (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:736:16)
+    at onstat (/media/yue/newDisk/node/node-blog/node-blog-react-mysql/node_modules/_send@0.16.2@send/index.js:725:14)
+    at FSReqWrap.oncomplete (fs.js:123:15)

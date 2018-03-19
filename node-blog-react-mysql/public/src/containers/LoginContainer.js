@@ -31,7 +31,7 @@ class LoginContainer extends React.Component{
      let dispatch=this.props.dispatch;
      axios({
         method:"POST",
-        url:'/api/login',
+        url:'/user/login',
         data:this.state.form
       }).then((res)=>{
          console.log(res)

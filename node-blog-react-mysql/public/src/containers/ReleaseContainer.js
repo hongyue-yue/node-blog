@@ -54,7 +54,7 @@ class ReleaseContainer extends React.Component{
      let dispatch=this.props.dispatch;
      axios({
         method:"POST",
-        url:'/api/reg',
+        url:'/user/reg',
         data:this.state.form
       }).then((res)=>{
          if(res.data.state==200){

@@ -38,24 +38,29 @@ class IndexContainer extends React.Component{
   }
   getPostName(){
     let dispatch=this.props.dispatch;
-    axios.get(`/api/post?name=${this.props.user}`).then((res)=>{
+    axios.get(`/user/post?name=${this.props.user}`).then((res)=>{
                dispatch(Action.GET_POSTS(res.data.posts));
           })
   }
   getPost(){
     let dispatch=this.props.dispatch;
-    axios.get('/api/post').then((res)=>{
+    axios.get('/user/post').then((res)=>{
                dispatch(Action.GET_POSTS(res.data.posts));
           })
   }
 	componentWillMount(){
-		 let user=this.props.user;
-		 if(user){
-          this.getPostName();
-		 }else{
+     let dispatch=this.props.dispatch;
+     axios.get('/user/info').then((res)=>{
+        if(res.data.state==200){
+             dispatch(Action.GET_USER(res.data.name));
+             setTimeout(()=>{
+               this.getPostName();
+             },100)
+        }else{
           this.getPost();
-		 }
+        }
 
+     })
   }
 	render(){
 		const user=this.props.user
@@ -67,18 +72,23 @@ class IndexContainer extends React.Component{
 				 return <Login/>
 			}
 		}
-		const postsList=posts.map((item,index)=> {
-           return (
-              <LiItems key={index} item={item}></LiItems>
-           )
-       })
+		const postsList=()=>{
+      console.log(posts)
+       if(posts.length>0){
+         return posts.map((item,index)=> {
+                return (
+                   <LiItems key={index} item={item}></LiItems>
+                )
+            })
+       }
+    }
 		return(
 		    <div>
 			   <div className="indexCom">
 			       {index()}
 			   </div>
 			   <ul className="postsCom">
-                 {postsList}
+             {postsList()}
 			   </ul>
 			</div>
 		)
